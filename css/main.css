@@ -1,0 +1,38 @@
+.body_reg{
+    background: url(../img/bkg.png);
+    object-fit: cover;
+
+}
+.h2_up{
+
+    width: 350px;
+    padding:25px;
+    color: aliceblue;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #E93B77 0%, #DA1F63 100%);
+    transform: translateY(-10px);
+}
+
+.div{
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.form-control{
+    margin-top: 15px;
+    
+}
+
+.buttonn{
+    width: 350px;
+    background: linear-gradient(180deg, #E93B77 0%, #DA1F63 100%);
+}
+
+.buttonn:hover{
+    background: blue;
+}
+.div_2{
+    transform: translateY(-60px);
+}
